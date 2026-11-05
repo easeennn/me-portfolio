@@ -276,7 +276,7 @@ export const projects: Project[] = [
     role: "Design & frontend engineering",
     tech: ["Next.js", "TypeScript", "Tailwind CSS"],
     status: "LIVE",
-    image: "/images/images.jfif",
+    image: "/images/iceland.jpg",
     demo: "https://icelandcoffee.vercel.app/",
     // source: "https://github.com/easeennn/ice-land-coffee"
   },
