@@ -90,7 +90,7 @@ const smH = "font-display text-[clamp(1rem,1.5vw,1.3rem)] font-extrabold upperca
 
 // ---- content (edit here) ----
 const name = "Muhammad Easin", role = "Web Developer", tagline = "Building thoughtful digital experiences.";
-const images = { hero: "/images/hero4.jpg", portrait: "/images/robo.jpg" };
+const images = { hero: "/images/hero4.jpg", portrait: "/images/me1.jpg" };
 const build = ["Modern web applications", "Responsive user interfaces", "Ecommerce experiences", "AI-powered integrations", "Interactive digital experiences", "Product prototypes"];
 const tag = "absolute top-3.5 z-[3] rounded-full bg-dark px-3 py-1.5 font-mono text-xs text-lt";
 const Arrow = ({ cls = "h-[22px] w-[22px]" }: { cls?: string }) => <svg className={cls} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden><path d="M7 17 17 7M8 7h9v9" /></svg>;
@@ -134,7 +134,7 @@ export default function Hero() {
         Your browser does not support the video tag.
     </video>
     <span aria-hidden className="pointer-events-none absolute inset-x-0 top-[8%] z-[2] h-0.5 animate-scan bg-red mix-blend-screen shadow-[0_0_14px_#FF202B] motion-reduce:animate-none" />
-    <span className={`${tag} left-3.5`}>● SYS.READY</span>
+    <span className={`${tag} left-3.5`}>● VISIONARY</span>
     <span className={`${tag} right-3.5 text-emerald-400`}>
       {time || "00:00:00"}
     </span>
